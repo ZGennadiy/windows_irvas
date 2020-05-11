@@ -1818,3 +1818,23 @@ textarea:focus {
     animation: none !important;
   }
 }
+
+.d-none {
+  display: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.big-image {
+  max-height: 70%;
+}
